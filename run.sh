@@ -1,2 +1,2 @@
 #!/bin/bash
-luajit main.lua -type query -level character
+/home/ycl391/torch/install/bin/luajit main.lua -type query -level character
